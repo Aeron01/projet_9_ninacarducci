@@ -66,10 +66,14 @@ body {
 	margin: 0 20px;
 	z-index: 0;
 }
-
+/*partie ajouter*/
+.caroussel-item img {
+    height: auto;
+}
+/*fin partie ajouté*/
 .picture img {
 	width: 100%;
-
+    height: auto; /*ajoute le 4-9-20223*/
 }
 #about-me {
 	flex: 2
