@@ -71,9 +71,9 @@ body {
 	margin: 0 20px;
 	z-index: 0;
 }
-.carousel-item img {
+.carousel-inner img {
     height: auto;
-    width: auto;
+    max-width: 100%;
 }
 .picture img {
 	width: 100%;
